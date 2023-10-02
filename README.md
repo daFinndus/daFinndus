@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daFinndus!
 - 👀 I’m interested in coding, gaming and learning new stuff.
-- 🌱 I’m currently learning javascript and python!
+- 🌱 I’m currently learning javascript, python and dart!
 - 📫 You can reach me via twitter: https://twitter.com/dafinndus
 - 😊 Check out my own link website displaying my projects: https://dafinndus.github.io/Pilot/
 
