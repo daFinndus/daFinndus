@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dafinndus" target="blank"><img src="https://img.shields.io/twitter/follow/dafinndus?logo=twitter&style=for-the-badge" alt="dafinndus" /></a> </p>
 
-- 🔭 I’m currently working on my [Portfolio!](https://github.com/daFinndus/portfolio)
+- 🔭 I’m currently working on my [Portfolio!](https://github.com/daFinndus/polaris)
 
 - 🌱 I’m currently learning **React and C++.**
 
