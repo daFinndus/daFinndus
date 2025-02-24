@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my [Portfolio!](https://github.com/daFinndus/polaris)
 
-- 🌱 I’m currently learning **React and C++.**
+- 🌱 I’m currently learning **React.**
 
 - 💬 Ask me about **not sure. Football?**
 
