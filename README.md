@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dafinndus&label=Profile%20views&color=0e75b6&style=flat" alt="dafinndus" /> </p>
 
-- 🔭 I’m currently working on my [Portfolio!](https://github.com/daFinndus/polaris)
+- 🔭 I’m currently pursuing my **masters degree in cybersecurity**.
 
-- 🌱 I’m learning **React.**
+- 🌱 I’m learning **quickshell.**
 
 - 💬 Ask me about **not sure. Football?**
 
